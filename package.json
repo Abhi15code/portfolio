@@ -44,12 +44,15 @@
       "not dead",
       "not op_mini all"
     ],
+    
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
   },
+  "homepage": "https://abhishek123.github.io/my-portfolio"
+,
   "devDependencies": {
     "@types/react-animate-on-scroll": "^2.1.5",
     "@types/react-google-recaptcha": "^2.1.2",
