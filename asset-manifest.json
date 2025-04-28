@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.039bf95e.css",
+    "main.js": "/portfolio/static/js/main.e64d93a7.js",
+    "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Abhishek kumar 3.5 yrs java Developer.pdf": "/portfolio/static/media/Abhishek kumar 3.5 yrs java Developer.680a73a158ca5ef46d5b.pdf",
+    "static/media/Abhishek12.png": "/portfolio/static/media/Abhishek12.44075e549880ad5db52f.png",
+    "static/media/icons8-kubernetes.svg": "/portfolio/static/media/icons8-kubernetes.1ade9eb9900c6dcddfff24812a220e54.svg",
+    "static/media/java.png": "/portfolio/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/microservice.png": "/portfolio/static/media/microservice.d047ecc8881a752dd39f.png",
+    "static/media/illustration.svg": "/portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/portfolio/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/mysql-icon.svg": "/portfolio/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
+    "static/media/aws.svg": "/portfolio/static/media/aws.d0cf72c7923dbccf19ba2d946e0466cc.svg",
+    "static/media/node-icon.svg": "/portfolio/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/typescript-icon.svg": "/portfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/whatsapp.svg": "/portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/portfolio/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
+    "static/media/react-icon.svg": "/portfolio/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "static/media/telegram.svg": "/portfolio/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/portfolio/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/docker.svg": "/portfolio/static/media/docker.a2eecd96da9f90e20b8dd2c1d09a1fc3.svg",
+    "static/media/shopify.svg": "/portfolio/static/media/shopify.6844408d4c13f2222031ef679e05c95e.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/portfolio/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/html-icon.svg": "/portfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/wordpress.svg": "/portfolio/static/media/wordpress.19efd7af1fafc38a53600387f0821d3d.svg",
+    "static/media/icons8-spring-boot.svg": "/portfolio/static/media/icons8-spring-boot.b39d866ef15303bd4182807431613051.svg",
+    "static/media/vscode-icon.svg": "/portfolio/static/media/vscode-icon.7bfadaaeba8770093f98a79aa2c77d41.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/vue-icon.svg": "/portfolio/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
+    "main.039bf95e.css.map": "/portfolio/static/css/main.039bf95e.css.map",
+    "main.e64d93a7.js.map": "/portfolio/static/js/main.e64d93a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.e64d93a7.js"
+  ]
+}
